@@ -17,7 +17,6 @@ export class PostTemaComponent implements OnInit {
   constructor(
     private temaService: TemaService,
     private router: Router
-
   ) { }
 
   ngOnInit(){
