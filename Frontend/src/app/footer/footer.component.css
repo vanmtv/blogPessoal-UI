@@ -13,7 +13,7 @@ ul.social-network {
     padding: 5px;
   }
   
-  .faFacebook, .faLinkedin, .faInstagram{
+  .faLinkedin, .faInstagram, .faGithub{
       color: white;
   }
   
@@ -29,3 +29,7 @@ ul.social-network {
   color: #C13584;
   }
   
+  .faGithub:hover{
+    color: #3C322D;
+    }
+    

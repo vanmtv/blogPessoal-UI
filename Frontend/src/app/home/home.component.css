@@ -1,5 +1,5 @@
 .parallax {
-    background-image: url('https://i.ytimg.com/vi/uNcd7WwmVlY/maxresdefault.jpg');
+    background-image: url('../../assets/img/banner.jpg');
   
     min-height: 500px;
   
@@ -8,3 +8,4 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  
